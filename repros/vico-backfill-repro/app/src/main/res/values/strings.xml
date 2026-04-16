@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vico Backfill Repro</string>
+    <string name="repro_title">Backfill transition repro</string>
+    <string name="repro_subtitle">This screen loads a cached trailing page first, then backfills a wider 4-page history through the same CartesianChartModelProducer.</string>
+    <string name="replay_transition">Replay transition</string>
+    <string name="loading_phase_cached">Showing cached trailing page</string>
+    <string name="loading_phase_full">Showing full 4-page history</string>
+    <string name="auto_replay_notice">The transition replays automatically after a short pause so the cached chart stays visible for a few seconds before backfill.</string>
+</resources>
